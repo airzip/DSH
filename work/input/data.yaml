@@ -1,0 +1,4 @@
+DATA_DIR: ../dutam
+OUTPUT_DIR: ../model
+MODEL_DIR: ../model
+DEBUG: True
